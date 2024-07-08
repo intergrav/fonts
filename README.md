@@ -1,5 +1,7 @@
 # intergrav/fonts
 
+![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hm/@intergrav/fonts) [![GitHub Repo stars](https://img.shields.io/github/stars/intergrav/fonts)](https://github.com/intergrav/fonts)
+
 A fast, open-source CDN for open-source fonts. Inspired by [xz/fonts](https://github.com/xz/fonts). 
 
 You can view available fonts in the `/serve` directory. More fonts will be added later. If you have any suggestions, open up an issue.
