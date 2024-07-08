@@ -1,0 +1,16 @@
+{
+    "name": "@intergrav/fonts",
+    "version": "1.0.0",
+    "description": "A fast, open-source CDN for open-source fonts. Inspired by xz/fonts.",
+    "main": "README.md",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/intergrav/fonts.git"
+    },
+    "author": "intergrav (intergrav@proton.me)",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/intergrav/fonts/issues"
+    },
+    "homepage": "https://github.com/intergrav/fonts#readme"
+  }
