@@ -7,13 +7,13 @@ A fast, open-source CDN for open-source fonts. Inspired by xz/fonts. You can vie
 In your CSS you could do:
 
 ```css
-@import url('https://cdn.jsdelivr.net/gh/intergrav/fonts@1.x/serve/inter.min.css');
+@import url('https://cdn.jsdelivr.net/gh/intergrav/fonts@1/serve/inter.min.css');
 ```
 
 Or in your HTML's `<head>` you could do:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/intergrav/fonts@1.x/serve/inter.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/intergrav/fonts@1/serve/inter.min.css">
 ```
 
 Replace `inter` with the font name, of course.
