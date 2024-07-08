@@ -1,18 +1,18 @@
 @font-face {
-    font-family: 'JetBrains Mono';
-    src: url('src/inter/JetBrainsMono-Italic.woff2') format('woff2'),
-        url('src/inter/JetBrainsMono-Italic.woff') format('woff');
+    font-family: 'Inter Variable';
+    src: url('src/inter/InterVariable.woff2') format('woff2'),
+        url('src/inter/InterVariable.woff') format('woff');
     font-weight: normal;
-    font-style: italic;
+    font-style: normal;
     font-display: swap;
 }
 
 @font-face {
-    font-family: 'JetBrains Mono';
-    src: url('src/inter/JetBrainsMono-Regular.woff2') format('woff2'),
-        url('src/inter/JetBrainsMono-Regular.woff') format('woff');
+    font-family: 'Inter Variable';
+    src: url('src/inter/InterVariableItalic.woff2') format('woff2'),
+        url('src/inter/InterVariableItalic.woff') format('woff');
     font-weight: normal;
-    font-style: normal;
+    font-style: italic;
     font-display: swap;
 }
 
