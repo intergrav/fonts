@@ -1,6 +1,18 @@
 # intergrav/fonts
 
-A fast, open-source CDN for open-source fonts. Inspired by xz/fonts. You can view available fonts in the `/serve` directory. More fonts to be added later! If you have any suggestions, open up an issue.
+A fast, open-source CDN for open-source fonts. Inspired by [xz/fonts](https://github.com/xz/fonts). 
+
+You can view available fonts in the `/serve` directory. More fonts will be added later. If you have any suggestions, open up an issue.
+
+Typically, web developers use custom fonts on their websites using one of two methods:
+
+- hosting font files on the same server as the website
+- using a central font service, such as Google Fonts or Adobe Typekit
+
+intergrav/fonts, by comparison:
+
+- serves font files through jsDelivr's global content delivery network
+- is fully open source and only serves open source fonts
 
 ## Importing
 
