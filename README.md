@@ -27,10 +27,7 @@ In your CSS you could do:
 Or in your HTML's `<head>` you could do:
 
 ```html
-<link
-	rel="stylesheet"
-	href="https://cdn.jsdelivr.net/npm/@intergrav/fonts@1/serve/inter.min.css"
-/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@intergrav/fonts@1/serve/inter.min.css">
 ```
 
 Replace `inter` with the font name, of course.
