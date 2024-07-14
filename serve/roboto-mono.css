@@ -1,140 +1,167 @@
 @font-face {
-    font-family: 'Roboto Mono';
-    src: local('Roboto Mono Light'), local('RobotoMono-Light'),
-        url('src/roboto-mono/RobotoMono-Light.woff2') format('woff2'),
-        url('src/roboto-mono/RobotoMono-Light.woff') format('woff');
-    font-weight: 300;
-    font-style: normal;
-    font-display: swap;
+	font-family: "Roboto Mono";
+	src:
+		local("Roboto Mono Light"),
+		local("RobotoMono-Light"),
+		url("src/roboto-mono/RobotoMono-Light.woff2") format("woff2"),
+		url("src/roboto-mono/RobotoMono-Light.woff") format("woff");
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
 }
 
 @font-face {
-    font-family: 'Roboto Mono';
-    src: local('Roboto Mono ExtraLight'), local('RobotoMono-ExtraLight'),
-        url('src/roboto-mono/RobotoMono-ExtraLight.woff2') format('woff2'),
-        url('src/roboto-mono/RobotoMono-ExtraLight.woff') format('woff');
-    font-weight: 200;
-    font-style: normal;
-    font-display: swap;
+	font-family: "Roboto Mono";
+	src:
+		local("Roboto Mono ExtraLight"),
+		local("RobotoMono-ExtraLight"),
+		url("src/roboto-mono/RobotoMono-ExtraLight.woff2") format("woff2"),
+		url("src/roboto-mono/RobotoMono-ExtraLight.woff") format("woff");
+	font-weight: 200;
+	font-style: normal;
+	font-display: swap;
 }
 
 @font-face {
-    font-family: 'Roboto Mono';
-    src: local('Roboto Mono Italic'), local('RobotoMono-Italic'),
-        url('src/roboto-mono/RobotoMono-Italic.woff2') format('woff2'),
-        url('src/roboto-mono/RobotoMono-Italic.woff') format('woff');
-    font-weight: normal;
-    font-style: italic;
-    font-display: swap;
+	font-family: "Roboto Mono";
+	src:
+		local("Roboto Mono Italic"),
+		local("RobotoMono-Italic"),
+		url("src/roboto-mono/RobotoMono-Italic.woff2") format("woff2"),
+		url("src/roboto-mono/RobotoMono-Italic.woff") format("woff");
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
 }
 
 @font-face {
-    font-family: 'Roboto Mono';
-    src: local('Roboto Mono ExtraLight Italic'), local('RobotoMono-ExtraLightItalic'),
-        url('src/roboto-mono/RobotoMono-ExtraLightItalic.woff2') format('woff2'),
-        url('src/roboto-mono/RobotoMono-ExtraLightItalic.woff') format('woff');
-    font-weight: 200;
-    font-style: italic;
-    font-display: swap;
+	font-family: "Roboto Mono";
+	src:
+		local("Roboto Mono ExtraLight Italic"),
+		local("RobotoMono-ExtraLightItalic"),
+		url("src/roboto-mono/RobotoMono-ExtraLightItalic.woff2") format("woff2"),
+		url("src/roboto-mono/RobotoMono-ExtraLightItalic.woff") format("woff");
+	font-weight: 200;
+	font-style: italic;
+	font-display: swap;
 }
 
 @font-face {
-    font-family: 'Roboto Mono';
-    src: local('Roboto Mono Bold Italic'), local('RobotoMono-BoldItalic'),
-        url('src/roboto-mono/RobotoMono-BoldItalic.woff2') format('woff2'),
-        url('src/roboto-mono/RobotoMono-BoldItalic.woff') format('woff');
-    font-weight: bold;
-    font-style: italic;
-    font-display: swap;
+	font-family: "Roboto Mono";
+	src:
+		local("Roboto Mono Bold Italic"),
+		local("RobotoMono-BoldItalic"),
+		url("src/roboto-mono/RobotoMono-BoldItalic.woff2") format("woff2"),
+		url("src/roboto-mono/RobotoMono-BoldItalic.woff") format("woff");
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
 }
 
 @font-face {
-    font-family: 'Roboto Mono';
-    src: local('Roboto Mono Light Italic'), local('RobotoMono-LightItalic'),
-        url('src/roboto-mono/RobotoMono-LightItalic.woff2') format('woff2'),
-        url('src/roboto-mono/RobotoMono-LightItalic.woff') format('woff');
-    font-weight: 300;
-    font-style: italic;
-    font-display: swap;
+	font-family: "Roboto Mono";
+	src:
+		local("Roboto Mono Light Italic"),
+		local("RobotoMono-LightItalic"),
+		url("src/roboto-mono/RobotoMono-LightItalic.woff2") format("woff2"),
+		url("src/roboto-mono/RobotoMono-LightItalic.woff") format("woff");
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
 }
 
 @font-face {
-    font-family: 'Roboto Mono';
-    src: local('Roboto Mono Bold'), local('RobotoMono-Bold'),
-        url('src/roboto-mono/RobotoMono-Bold.woff2') format('woff2'),
-        url('src/roboto-mono/RobotoMono-Bold.woff') format('woff');
-    font-weight: bold;
-    font-style: normal;
-    font-display: swap;
+	font-family: "Roboto Mono";
+	src:
+		local("Roboto Mono Bold"),
+		local("RobotoMono-Bold"),
+		url("src/roboto-mono/RobotoMono-Bold.woff2") format("woff2"),
+		url("src/roboto-mono/RobotoMono-Bold.woff") format("woff");
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
 }
 
 @font-face {
-    font-family: 'Roboto Mono';
-    src: local('Roboto Mono SemiBold Italic'), local('RobotoMono-SemiBoldItalic'),
-        url('src/roboto-mono/RobotoMono-SemiBoldItalic.woff2') format('woff2'),
-        url('src/roboto-mono/RobotoMono-SemiBoldItalic.woff') format('woff');
-    font-weight: 600;
-    font-style: italic;
-    font-display: swap;
+	font-family: "Roboto Mono";
+	src:
+		local("Roboto Mono SemiBold Italic"),
+		local("RobotoMono-SemiBoldItalic"),
+		url("src/roboto-mono/RobotoMono-SemiBoldItalic.woff2") format("woff2"),
+		url("src/roboto-mono/RobotoMono-SemiBoldItalic.woff") format("woff");
+	font-weight: 600;
+	font-style: italic;
+	font-display: swap;
 }
 
 @font-face {
-    font-family: 'Roboto Mono';
-    src: local('Roboto Mono Regular'), local('RobotoMono-Regular'),
-        url('src/roboto-mono/RobotoMono-Regular.woff2') format('woff2'),
-        url('src/roboto-mono/RobotoMono-Regular.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
+	font-family: "Roboto Mono";
+	src:
+		local("Roboto Mono Regular"),
+		local("RobotoMono-Regular"),
+		url("src/roboto-mono/RobotoMono-Regular.woff2") format("woff2"),
+		url("src/roboto-mono/RobotoMono-Regular.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
 }
 
 @font-face {
-    font-family: 'Roboto Mono';
-    src: local('Roboto Mono Thin'), local('RobotoMono-Thin'),
-        url('src/roboto-mono/RobotoMono-Thin.woff2') format('woff2'),
-        url('src/roboto-mono/RobotoMono-Thin.woff') format('woff');
-    font-weight: 100;
-    font-style: normal;
-    font-display: swap;
+	font-family: "Roboto Mono";
+	src:
+		local("Roboto Mono Thin"),
+		local("RobotoMono-Thin"),
+		url("src/roboto-mono/RobotoMono-Thin.woff2") format("woff2"),
+		url("src/roboto-mono/RobotoMono-Thin.woff") format("woff");
+	font-weight: 100;
+	font-style: normal;
+	font-display: swap;
 }
 
 @font-face {
-    font-family: 'Roboto Mono';
-    src: local('Roboto Mono Medium'), local('RobotoMono-Medium'),
-        url('src/roboto-mono/RobotoMono-Medium.woff2') format('woff2'),
-        url('src/roboto-mono/RobotoMono-Medium.woff') format('woff');
-    font-weight: 500;
-    font-style: normal;
-    font-display: swap;
+	font-family: "Roboto Mono";
+	src:
+		local("Roboto Mono Medium"),
+		local("RobotoMono-Medium"),
+		url("src/roboto-mono/RobotoMono-Medium.woff2") format("woff2"),
+		url("src/roboto-mono/RobotoMono-Medium.woff") format("woff");
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
 }
 
 @font-face {
-    font-family: 'Roboto Mono';
-    src: local('Roboto Mono Thin Italic'), local('RobotoMono-ThinItalic'),
-        url('src/roboto-mono/RobotoMono-ThinItalic.woff2') format('woff2'),
-        url('src/roboto-mono/RobotoMono-ThinItalic.woff') format('woff');
-    font-weight: 100;
-    font-style: italic;
-    font-display: swap;
+	font-family: "Roboto Mono";
+	src:
+		local("Roboto Mono Thin Italic"),
+		local("RobotoMono-ThinItalic"),
+		url("src/roboto-mono/RobotoMono-ThinItalic.woff2") format("woff2"),
+		url("src/roboto-mono/RobotoMono-ThinItalic.woff") format("woff");
+	font-weight: 100;
+	font-style: italic;
+	font-display: swap;
 }
 
 @font-face {
-    font-family: 'Roboto Mono';
-    src: local('Roboto Mono Medium Italic'), local('RobotoMono-MediumItalic'),
-        url('src/roboto-mono/RobotoMono-MediumItalic.woff2') format('woff2'),
-        url('src/roboto-mono/RobotoMono-MediumItalic.woff') format('woff');
-    font-weight: 500;
-    font-style: italic;
-    font-display: swap;
+	font-family: "Roboto Mono";
+	src:
+		local("Roboto Mono Medium Italic"),
+		local("RobotoMono-MediumItalic"),
+		url("src/roboto-mono/RobotoMono-MediumItalic.woff2") format("woff2"),
+		url("src/roboto-mono/RobotoMono-MediumItalic.woff") format("woff");
+	font-weight: 500;
+	font-style: italic;
+	font-display: swap;
 }
 
 @font-face {
-    font-family: 'Roboto Mono';
-    src: local('Roboto Mono SemiBold'), local('RobotoMono-SemiBold'),
-        url('src/roboto-mono/RobotoMono-SemiBold.woff2') format('woff2'),
-        url('src/roboto-mono/RobotoMono-SemiBold.woff') format('woff');
-    font-weight: 600;
-    font-style: normal;
-    font-display: swap;
+	font-family: "Roboto Mono";
+	src:
+		local("Roboto Mono SemiBold"),
+		local("RobotoMono-SemiBold"),
+		url("src/roboto-mono/RobotoMono-SemiBold.woff2") format("woff2"),
+		url("src/roboto-mono/RobotoMono-SemiBold.woff") format("woff");
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
 }
-

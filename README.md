@@ -2,7 +2,7 @@
 
 [![NPM Version](https://img.shields.io/npm/v/@intergrav/fonts)](https://www.npmjs.com/package/@intergrav/fonts) [![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hm/@intergrav/fonts)](https://cdn.jsdelivr.net/npm/@intergrav/fonts/) [![GitHub Repo stars](https://img.shields.io/github/stars/intergrav/fonts)](https://github.com/intergrav/fonts)
 
-A fast, open-source CDN for open-source fonts. Inspired by [xz/fonts](https://github.com/xz/fonts). 
+A fast, open-source CDN for open-source fonts. Inspired by [xz/fonts](https://github.com/xz/fonts).
 
 You can view available fonts in the `/serve` directory. More fonts will be added later. If you have any suggestions, open up an issue.
 
@@ -21,13 +21,16 @@ intergrav/fonts, by comparison:
 In your CSS you could do:
 
 ```css
-@import url('https://cdn.jsdelivr.net/npm/@intergrav/fonts@1/serve/inter.min.css');
+@import url("https://cdn.jsdelivr.net/npm/@intergrav/fonts@1/serve/inter.min.css");
 ```
 
 Or in your HTML's `<head>` you could do:
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@intergrav/fonts@1/serve/inter.min.css">
+<link
+	rel="stylesheet"
+	href="https://cdn.jsdelivr.net/npm/@intergrav/fonts@1/serve/inter.min.css"
+/>
 ```
 
 Replace `inter` with the font name, of course.
