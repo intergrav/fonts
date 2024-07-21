@@ -1,0 +1,29 @@
+@font-face {
+	font-family: "Fira Mono";
+	src: local("Fira Mono Medium"), local("FiraMono-Medium"),
+		url("src/fira-mono/FiraMono-Medium.woff2") format("woff2"),
+		url("src/fira-mono/FiraMono-Medium.woff") format("woff");
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Fira Mono";
+	src: local("Fira Mono Bold"), local("FiraMono-Bold"),
+		url("src/fira-mono/FiraMono-Bold.woff2") format("woff2"),
+		url("src/fira-mono/FiraMono-Bold.woff") format("woff");
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Fira Mono";
+	src: local("Fira Mono Regular"), local("FiraMono-Regular"),
+		url("src/fira-mono/FiraMono-Regular.woff2") format("woff2"),
+		url("src/fira-mono/FiraMono-Regular.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
