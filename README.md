@@ -1,3 +1,7 @@
+> # This repository has been moved!
+> 
+> See this repository on [Tangled](https://tangled.org): https://tangled.org/devins.page/fonts
+
 # intergrav/fonts
 
 [![NPM Version](https://img.shields.io/npm/v/@intergrav/fonts)](https://www.npmjs.com/package/@intergrav/fonts) [![jsDelivr hits (npm)](https://img.shields.io/jsdelivr/npm/hm/@intergrav/fonts)](https://cdn.jsdelivr.net/npm/@intergrav/fonts/) [![GitHub Repo stars](https://img.shields.io/github/stars/intergrav/fonts)](https://github.com/intergrav/fonts)
